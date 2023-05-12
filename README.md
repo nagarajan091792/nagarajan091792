@@ -1,4 +1,4 @@
-<img  alt="Coding" width="100%" height="30%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img  alt="Coding" width="100%" height="15%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm NAGARAJAN M H</h1>
 <h3 align="center">A MERN STACK DEVELOPER</h3>
